@@ -1,0 +1,9 @@
+[package]
+name = "esoc"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "An efficient compiler for esoteric languages"
+repository = "https://www.github.com/federicofusco/esoc.git"
+
+[dependencies]

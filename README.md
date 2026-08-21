@@ -1,2 +1,2 @@
-# bf-interpreter
-My own brainf**k interpreter in C
+# esoc
+A compiler for esoteric languagues.
